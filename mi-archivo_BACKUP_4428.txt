@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hago un cambio en mi archivo
+=======
+Hola que tal 
+>>>>>>> origin/desarrollo
